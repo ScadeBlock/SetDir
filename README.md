@@ -23,10 +23,7 @@ ___
 
 # Review
 
-
-https://github.com/user-attachments/assets/ad7e2b39-2154-4715-ac1e-16b89dc036dc
-
-
+https://github.com/user-attachments/assets/403ebc8f-1038-4918-9517-8dcd37add31c
 
 # Attribute
 + Thanks Flaticon for the icon
