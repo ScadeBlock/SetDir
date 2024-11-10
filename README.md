@@ -22,7 +22,11 @@ ___
 + `setdir --env showenv` : Show all directory shortcut currently set
 
 # Review
-https://github.com/user-attachments/assets/169bba6e-4d05-4687-bc15-8b885787cc61
+
+
+https://github.com/user-attachments/assets/ad7e2b39-2154-4715-ac1e-16b89dc036dc
+
+
 
 # Attribute
 + Thanks Flaticon for the icon
